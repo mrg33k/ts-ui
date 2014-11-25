@@ -1,0 +1,39 @@
+/* Put your CSS here */
+
+.app-container{margin-top:100px;padding:0px;border-right:1px solid #bdbdbd;height: 600px;}
+.navigation{padding:20px;background:#00bff3;font-size: 1.2em; color:white;font-family: roboto-light;box-shadow:-7px 2px 7px #f2f2f2;}
+.navigation .title p{padding-top:7px;margin-bottom: 0px;line-height: 10.5px;}
+.navigation span{font-size: 14px;line-height: 0;}
+.navigation .main-image{padding:0px 3px 0px 20px;}
+.navigation .search{padding-top: 6px;}
+.thread .picture{margin-left:17px;}
+.thread .info{padding:0px 90px 0px 0px;font-size: 0.6em;color:#acacac;line-height: 10px;margin-bottom: 0px;}
+.thread .message{font-family: roboto-light; font-size: 1.1em;width:79%;float:right;line-height: 1.5em;padding-right: 0px;}
+.thread .message p{padding-right: 35px;}
+.thread{width: 100%;border-bottom:1px solid #efefef;padding:20px 0 15px 0;}
+div.menu{padding-top: 6px;}
+.controls{background:rgba(251,251,251,1);position: absolute;bottom: 0;width: 100%;border-top: 1px solid #9a9a9a;}
+.controls .record{width:69px;margin: 31px auto;padding-top: 5px;}
+.tabs{position:absolute;bottom: -2px;}
+.tabs .tab{border-right:1px solid #9a9a9a;}
+.tabs #two{border-bottom:1px solid #9a9a9a; border-right:1px solid #9a9a9a;border-top:1px solid #9a9a9a;}
+
+/*input color*/
+::-webkit-input-placeholder {
+   color: #fff;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #fff; 
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #fff; 
+}
+
+:-ms-input-placeholder {  
+   color: #fff;  
+}
+
+
+
